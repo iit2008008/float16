@@ -1,4 +1,7 @@
 /*
+ * FILE: float16.h
+ * DESCRIPTION: "Header file for the float16 datatype"
+ *
  * DFS Assignment - A new Float Datatype
  *
  * Specifications:-
@@ -28,6 +31,15 @@
  * iit2008009 - Santak Dalai
  * iit2008010 - Sunny Shulka
  *
+ *----------------------------------------------------------------------------------------------------------------------
+ * Work Distribution :- 
+ *
+ * Storing Integration 		- Pranjal Kumar Singh (IIT2008008)
+ * String Manipulation		- Anvay Srivastava (IIT2008005) and Pranjal Kumar Singh (IIT2008008)
+ * Addition and Substraction 	- Anupam Srivastava (IIT2008002) and Shailendra Upadhyaya (IIT2008006) 
+ * Multiplication 		- Sunny Shukla (IIT2008010), Santak Dalai(IIT2008009) and Yagyadutt Mishra(IIT2008003)
+ * Division 			- Shubham Gupta (IIT2008004) and Shubham Aggarwal (IIT2008007)
+ *----------------------------------------------------------------------------------------------------------------------
  */
 #include <iostream>
 #include <cassert>

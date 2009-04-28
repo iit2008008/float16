@@ -1,0 +1,40 @@
+/*
+ * DFS Assignment - A new Float Datatype
+ *
+ * Specifications:-
+ *
+ *	Name: float16
+ * 	Size: 16 bytes
+ * 	Allocation: 
+ * 		Byte 1: 	Sign of Mantissa
+ * 		Byte 2-32: 	Mantissa
+ * 		Byte 33: 	Sign of Exponent
+ * 		Byte 34-128: 	Exponent
+ *
+ * 	e.g.- The number 123.45e30 is stored as - 
+ * 		Mantissa = 12345
+ * 		Exponent = 32
+ *
+ * Team Members: 
+ *
+ * iit2008001 - Malay Singh
+ * iit2008002 - Anupam Srivastava
+ * iit2008003 - Yagyadutt Mishra
+ * iit2008004 - Shubham Gupta
+ * iit2008005 - Anvay Srivastava
+ * iit2008006 - Shailendra Upadhyaya
+ * iit2008007 - Shubham Aggarwal
+ * iit2008008 - Pranjal Kumar Singh
+ * iit2008009 - Santak Dalai
+ * iit2008010 - Sunny Shulka
+ *
+ *----------------------------------------------------------------------------------------------------------------------
+ * Work Distribution :- 
+ *
+ * Storing Integration 		- Pranjal Kumar Singh (IIT2008008)
+ * String Manipulation		- Anvay Srivastava (IIT2008005) and Pranjal Kumar Singh (IIT2008008)
+ * Addition and Substraction 	- Anupam Srivastava (IIT2008002) and Shailendra Upadhyaya (IIT2008006) 
+ * Multiplication 		- Sunny Shukla (IIT2008010), Santak Dalai(IIT2008009) and Yagyadutt Mishra(IIT2008003)
+ * Division 			- Shubham Gupta (IIT2008004) and Shubham Aggarwal (IIT2008007)
+ *----------------------------------------------------------------------------------------------------------------------
+ */
